@@ -1,0 +1,20 @@
+AULA DIO - CRIANDO SEU PRIMEIRO REPOSITÓRIO NO GITHUB
+
+ANOTAÇÕES DA AULA:
+
+Depois de clonar o repositório desejado:
+
+_ir até a pasta em que deseja clonar o repositório localmente;
+
+_clicar com o botão direito e selecionar "Git Bash Here";
+
+_inserir o comando "git clone" e colar o link do repositório;
+
+_o comando "git status" mostra o que tem dentro do repositório;
+
+_o comando "git add . ou git add -A" adiciona o controle de versão local;
+
+_o comando "git commit -m" prepara o arquivo para subir no GitHub, e ainda podemos 
+e podemos incluir anotações entre "" sobre o repositório criado;
+
+_o comando "git push origin main" envia o arquivo para nuvem (GitHub).
